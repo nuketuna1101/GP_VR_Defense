@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 472ffc943ab11e44dba930c336d2e495
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - casingSoundclip: {fileID: 8300000, guid: e7728b57c7e922545921eaa51ae04e1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

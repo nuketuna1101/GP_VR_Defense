@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 128da5e9e9b271d45a316977af540d89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootPoint: {instanceID: 0}
+  - gunSoundClip: {fileID: 8300000, guid: 1ac120db4eb21c84c8c658cc7c93927d, type: 3}
+  - muzzleFlasheffect: {fileID: 1702115403805554386, guid: afb68f3ebd28ef14db15fba0d56ac975, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 14a36f874a050174984dc5fd9786eeb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet: {fileID: 7788606282391241594, guid: 7299ffbcd0751a34789cbcf38199fef7, type: 3}
+  - BulletCasing: {fileID: 7788606282391241594, guid: 9a6234be3717b964cbdc6be9cf546911, type: 3}
+  - shootPoint: {instanceID: 0}
+  - casingDispensePoint: {instanceID: 0}
+  - gunSoundClip: {fileID: 8300000, guid: f7fcb1a46ad79d34e94f096b9c63818a, type: 3}
+  - muzzleFlasheffect: {fileID: 5394433864514210314, guid: f54228d34d2bbbc4987a3f9b13e741d4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

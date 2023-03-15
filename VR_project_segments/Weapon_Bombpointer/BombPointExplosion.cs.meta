@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 70ab01977664c0a45bb148d45629fc41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bombSoundClip: {fileID: 8300000, guid: 2947fcd71b94c184f951ea5acdc4334e, type: 3}
+  - BombBlastEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
